@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-欢迎来到
-Swofdrit / 迅捷狼浮沉\n
-                的
-                        个人网站
+## 欢迎来到
+**Swofdirt / 迅捷狼浮沉**
+*的*
+**个人网站**
